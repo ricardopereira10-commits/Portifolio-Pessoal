@@ -689,9 +689,11 @@ body.light .header {
     width: 100%;
   }
 
+  
   .about__info {
     gap: 1.5rem;
   }
+
 
   .projects__grid {
     grid-template-columns: 1fr;

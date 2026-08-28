@@ -11,6 +11,7 @@
 
 ### 2. Problemas encontrados
 
+
 **Problema 1:**  
 Os botões “Demo” e “Código” da seção de Projetos não funcionavam. Todos apontavam apenas para “#”, ou seja, ao clicar a página só voltava para o topo e não abria nenhum projeto.
 
